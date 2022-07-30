@@ -5,6 +5,6 @@
 <i>😄 Pronouns:</i> he/his<br>
 <i>⚡ Fun fact:</i> My first contact with programming was with C#, but I didn't like it 😜<br><br>
 
-<h6> contact me through my social networks</h6>
+<h4> contact me through my social networks</h4>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=cyan)](https://instagram.com/gxbr.melo) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=cyan)](https://twitter.com/marshh_melo) 
