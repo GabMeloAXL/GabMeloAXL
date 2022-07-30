@@ -1,5 +1,5 @@
 <h1 align="center"> Olá 🖖 Me chamo Gabriel Melo !!</h1> 
-<h3 align="center"> Sou programador Front-End e UX-UI Designer</h3>
+<h3 align="center">  Front-End Developer and UX-UI Designer</h3>
 <hr>
 <i>🌱 I’m currently learning:</i> Bootstrap, PHP<br>
 <i>😄 Pronouns:</i> he/his<br>
@@ -19,4 +19,6 @@
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=green) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 )
+
+![GabMeloAxl GitHub stats](https://github-readme-stats.vercel.app/api?username=GabMeloAXL&show_icons=true&theme=radical)
 
