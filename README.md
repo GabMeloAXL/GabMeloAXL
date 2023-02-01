@@ -6,7 +6,7 @@
 
 #### contact me through my social networks 📱👈
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=cyan)](https://instagram.com/gxbr.melo) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=cyan)](https://twitter.com/marshh_melo) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=cyan)](https://instagram.com/gxbr.melo) 
 
 <h3 align="center"> My Skills  🤹🏽 </h3>
 <h4> Tecnology 🔨 </h4>
