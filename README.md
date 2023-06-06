@@ -1,12 +1,13 @@
 <h1 align="center"> Olá 🖖 Me chamo Gabriel Melo !!</h1> 
-<h3 align="center"> Front-End Web Developer</h3>
+<h3 align="center"> Web Developer, rumo ao FullStack</h3>
 <hr>
 <i>😄 Pronouns:</i> he/his<br>
 <i>⚡ Fun fact:</i> My first contact with programming was with C#, but I didn't like it 😜<br><br>
 
 #### contact me through my social networks 📱👈
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=cyan)](https://instagram.com/gxbr.melo) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=cyan)](https://instagram.com/gb.meloz) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-054F77)]
 
 <h3 align="center"> My Skills  🤹🏽 </h3>
 <h4> Tecnology 🔨 </h4>
