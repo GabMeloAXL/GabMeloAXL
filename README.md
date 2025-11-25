@@ -1,5 +1,5 @@
 <h1 align="center"> Olá 🖖 Me chamo Gabriel Melo !!</h1> 
-<h3 align="center"> Automação Web, Automação de tarefas e Web Development </h3>
+<h3 align="center"> Automação de tarefas com ShellScript e Cybersecurity </h3>
 <hr>
 <i>⚡ Fun fact:</i> My first contact with programming was with C#, but I didn't like it 😜<br><br>
 
