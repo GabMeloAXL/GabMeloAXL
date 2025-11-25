@@ -5,7 +5,7 @@
 
 #### contact me through my social networks 📱👈
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=cyan)](https://instagram.com/melo_gabr_) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=cyan)](https://instagram.com/__gabr.sh) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-000080?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gabrimelo/)
 
 <h3 align="center"> My Skills  🤹🏽 </h3>
